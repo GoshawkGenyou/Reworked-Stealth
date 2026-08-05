@@ -29,5 +29,5 @@
 			"[+200]% Strength <vs [Helicopter] units>", "Never appears as a Barbarian unit"],
 		"attackSound": "missile",
 		"promotions": ["[Radar] ability"]
-	},
+	}
 ]
