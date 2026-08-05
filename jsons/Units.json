@@ -1,5 +1,5 @@
 [
-	// Only change is changing the amount of damage taken from 100% less (none) to 90% less (10% of normal damage)
+	// Changed the amount of damage taken from 100% less (none) to 90% less (10% of normal damage)
 	{
 		"name": "Stealth Bomber",
 		"unitType": "Bomber",
@@ -12,30 +12,17 @@
 		"requiredResource": "Aluminum",
 		"uniques": ["Damage taken from interception reduced by [90]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
-	}
-
-	{
-		"name": "Mobile SAM",
-		"unitType": "Gunpowder",
-		"movement": 3,
-		"interceptRange": 2,
-		"strength": 65,
-		"cost": 425,
-		"requiredTech": "Rocketry",
-		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>",
-			"[+150]% Strength <vs [Helicopter] units>", "Never appears as a Barbarian unit"],
-		"attackSound": "missile"
 	},
-
+	
+	// Added range fighting ability against Helicoptors and other units, because rockets.
 	{
-		// Added range fighting ability against Helicoptors and other units, because rockets.
 		"name": "SAM + Mobile Radar",
 		"unitType": "Gunpowder",
 		"movement": 3,
 		"interceptRange": 4,
 		"range": 1,
 		"strength": 110,
-		"rangedStrength": 50
+		"rangedStrength": 50,
 		"cost": 1250,
 		"requiredTech": "Telecommunications",
 		"uniques": ["[150]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>",
