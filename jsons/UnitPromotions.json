@@ -1,5 +1,5 @@
 // Unique to be kept
 {
 		"name": "[Radar] ability",
-		"uniques": ["[1] extra interceptions may be made per turn"],
+		"uniques": ["[1] extra interceptions may be made per turn", "[+150]% Strength <vs [Bomber] units>"],
 },
