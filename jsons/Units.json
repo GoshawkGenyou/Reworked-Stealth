@@ -28,11 +28,14 @@
 	},
 
 	{
+		// Added range fighting ability against Helicoptors and other units, because rockets.
 		"name": "SAM + Mobile Radar",
 		"unitType": "Gunpowder",
 		"movement": 3,
 		"interceptRange": 4,
+		"range": 1,
 		"strength": 110,
+		"rangedStrength": 50
 		"cost": 1250,
 		"requiredTech": "Telecommunications",
 		"uniques": ["[150]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>",
