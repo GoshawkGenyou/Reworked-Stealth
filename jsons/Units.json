@@ -38,6 +38,6 @@
 		"uniques": ["[150]% chance to intercept air attacks", "[+100]% Strength <vs [Fighter] units>", "[+250]% Strength <vs [Bomber] units>",
 			"[+200]% Strength <vs [Helicopter] units>", "Never appears as a Barbarian unit"],
 		"attackSound": "missile",
-		"promotions": ["[Zero] ability"]
+		"promotions": ["[Radar] ability"]
 	},
 ]
