@@ -1,5 +1,3 @@
-# Unciv-mod-example
+# Reworked-Stealth
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+Modified stealth bomber vs. defence unit interactions. Added a new unit [SAM + Radar] that is more expensive than the typical sam unit but is dedicated in interception of those pesky stealth bombers. Also the stealth bombers are no longer 100% evasion but 90%.
