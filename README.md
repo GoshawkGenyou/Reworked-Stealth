@@ -6,4 +6,6 @@ Not designed with Nuke missile interceptions in mind, if suggestions for balanci
 
 Also uses Gods & Kings ruleset because uses Tech Telecommunications as a basis for when you can start building them.
 
-TODO: Images/UnitIcons
+# TODO: 
+
+Images/UnitIcons
