@@ -5,3 +5,5 @@ Modified stealth bomber vs. defence unit interactions. Added a new unit [SAM + R
 Not designed with Nuke missile interceptions in mind, if suggestions for balancing please feel free to leave a comment.
 
 Also uses Gods & Kings ruleset because uses Tech Telecommunications as a basis for when you can start building them.
+
+TODO: Images/UnitIcons
