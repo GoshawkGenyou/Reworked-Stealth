@@ -1,5 +1,5 @@
 [
-	// Changed the amount of damage taken from 100% less (none) to 90% less (10% of normal damage)
+	// Changed the amount of damage taken from 100% less (none) to 80% less (20% of normal damage)
 	{
 		"name": "Stealth Bomber",
 		"unitType": "Bomber",
@@ -10,7 +10,7 @@
 		"cost": 425,
 		"requiredTech": "Stealth",
 		"requiredResource": "Aluminum",
-		"uniques": ["Damage taken from interception reduced by [90]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
+		"uniques": ["Damage taken from interception reduced by [80]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
 	},
 	
@@ -22,7 +22,7 @@
 		"interceptRange": 4,
 		"range": 1,
 		"strength": 110,
-		"rangedStrength": 50,
+		"rangedStrength": 70,
 		"cost": 1250,
 		"requiredTech": "Telecommunications",
 		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>",
